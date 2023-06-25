@@ -14,4 +14,7 @@ export default defineNuxtConfig({
       autoprefixer: {}
     }
   },
+  app: {
+    baseURL: '/modernice-web/'
+  }
 })
