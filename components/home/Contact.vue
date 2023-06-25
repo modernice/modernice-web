@@ -34,7 +34,7 @@ import { faUserHeadset, faEnvelope, faMapLocation } from '@fortawesome/pro-light
         </div>
       </div>
 
-      <a href="#" class="md:hidden" :class="$style.button">
+      <a href="https://cal.com/nice-saman/hello" class="md:hidden" :class="$style.button">
         Online Termin vereinbaren
       </a>
       <p class="w-2/3 text-center font-light text-lg text-gray-300 md:hidden">Gemeinsam gestalten wir 
